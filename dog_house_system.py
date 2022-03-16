@@ -1,3 +1,16 @@
+# By Ethan Wong
+# 16 March 2022 10:10pm
+
+"""
+Possible Changes to make:
+    make cancel operation a function:
+        # cancel operation
+        if new_dog == "/cancel":
+            print(f" Pick up cancelled")
+            print()
+"""
+
+
 def welcome():
     print("Welcome to Dog House, the system to keep \ntrack of all your dogs staying at *DogsRus*")
 
