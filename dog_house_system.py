@@ -15,7 +15,7 @@ def welcome():
     print("Welcome to Dog House, the system to keep \ntrack of all your dogs staying at *DogsRus*")
 
 
-dog_house = ["Oliver"]
+dog_house = []
 
 
 def drop_off():
