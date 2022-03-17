@@ -1,3 +1,7 @@
+# By Ethan Wong
+# 17 March 2022 10:02pm
+
+
 def welcome():
     print("Welcome to the Kidz Fun Holiday Programme")
 
